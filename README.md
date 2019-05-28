@@ -87,3 +87,4 @@ password         (f4lc0n)
 1g 0:00:00:00 DONE 2/3 (2019-05-28 14:20) 2.439g/s 72214p/s 72214c/s 72214C/s 123456..MATT
 Use the "--show" option to display all of the cracked passwords reliably
 ```
+- So the password was successfullly stolen :grin:
