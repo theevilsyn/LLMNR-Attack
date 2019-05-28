@@ -62,7 +62,7 @@ Challenge set              [1122334455667788]
 [+] Listening for events...
 ```
 
-- Now start accessing a inaccessible server on the Victim Machine.![](https://github.com/bj1408/LLMNR-Attack/blob/master/images/VictimSS1.png)
+- Now let us wait till the victim starts accessing an inaccessible server.![](https://github.com/bj1408/LLMNR-Attack/blob/master/images/VictimSS1.png)
 
 - Now we can see that Responder captures this event.
 ```bash
