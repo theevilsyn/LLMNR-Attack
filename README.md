@@ -90,4 +90,4 @@ Use the "--show" option to display all of the cracked passwords reliably
 - So the password was successfullly stolen :grin:
 
 
-PS: The network activity for this attack is captured [Here](./Captures/NBNS.pcapng).
+PS: The network capture for this attack is [here](./Captures/NBNS.pcapng).
