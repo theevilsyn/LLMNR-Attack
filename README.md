@@ -64,7 +64,7 @@ Challenge set              [1122334455667788]
 
 - Now start accessing a inaccessible server on the Victim Machine.
 
-![VictimSS1](/images/VictimSS1)
+![](https://github.com/bj1408/LLMNR-Attack/blob/master/images/VictimSS1.png)
 
 - Now we can see that Responder captures this event.
 ```bash
