@@ -7,7 +7,6 @@ LLMNR and NBT-NS Spoofing
   ```bash
   f4lc0n@klaw /g/Responder> sudo ./Responder.py -I eno1 -wrf
 ```
- - The output will be in a similar way.
 
 
 
