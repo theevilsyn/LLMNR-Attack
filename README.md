@@ -9,7 +9,7 @@ LLMNR and NBT-NS Spoofing
 ```
  - The output will be in a similar way.
 
-````bash
+
 
 .----.-----.-----.-----.-----.-----.--|  |.-----.----.
 |   _|  -__|__ --|  _  |  _  |     |  _  ||  -__|   _|
