@@ -88,3 +88,6 @@ password         (f4lc0n)
 Use the "--show" option to display all of the cracked passwords reliably
 ```
 - So the password was successfullly stolen :grin:
+
+
+PS: The network activity for this attack is captured [Here](./Captures/NBNS.pcapng).
